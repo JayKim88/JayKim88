@@ -1,7 +1,7 @@
 Hi there, Glad to have you here 👋
 ==================================
 I'm a steady learner to be a Software Engineer👨‍💻   
-Hope to be responsible for Front-End Position 😎
+Hope to be responsible for Front-End Position!
 
 Please visit my tech-Blog:) [Click Here](https://nomadkim880901.tistory.com/)
 <!--
