@@ -3,7 +3,9 @@ Hi there, Glad to have you here 👋
 I'm a steady learner to be a Software Engineer👨‍💻   
 Hope to be responsible for Front-End Position!
 
-Please visit my tech-Blog:) [Click Here](https://nomadkim880901.tistory.com/)
+Please visit my Tech-Blog:) [Click Here](https://nomadkim880901.tistory.com/)
+
+Email: mearak43@gmail.com
 <!--
 **JayKim88/JayKim88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
