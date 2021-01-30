@@ -1,8 +1,9 @@
 Hi there, Glad to have you here 👋
 ==================================
-####I'm a steady learner to be a Software Developer👨‍💻
-####Hope Front-End Position 😎
+I'm a steady learner to be a Software Developer👨‍💻   
+Hope Front-End Position 😎
 
+Please visit my tech-Blog:) [Click Here](https://nomadkim880901.tistory.com/)
 <!--
 **JayKim88/JayKim88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
