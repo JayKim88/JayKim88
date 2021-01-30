@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, Glad to have you here 👋
+## I'm a steady learner to be a Software Developer👨‍💻
+## Hope Front-End Position 😎
 
 <!--
 **JayKim88/JayKim88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
