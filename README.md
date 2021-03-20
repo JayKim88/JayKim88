@@ -3,6 +3,14 @@ Hi there, Glad to have you here 👋
 I'm a steady learner to be a Software Engineer👨‍💻   
 Hope to be responsible for Front-End Position!
 
+#### ✏️ LANGUAGE
+
+#### 🌘 CLIENT-SIDE
+
+#### 🌘 SERVER-SIDE
+
+#### 🔧 TOOLS
+
 Please visit my Tech-Blog:) [Click Here](https://nomadkim880901.tistory.com/)
 
 Email: mearak43@gmail.com
