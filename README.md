@@ -3,9 +3,9 @@ Hi there, Glad to have you here 👋
 I'm a steady learner to be a Software Engineer👨‍💻   
 Hope to be responsible for Front-End Position!
 
-<Strong>✏️ LANGUAGE</Strong>
+<Strong style="font-style:italic">✏️ LANGUAGE</Strong>
 <br>
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/JayKim88">
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/JayKim88" style="margin-right:10px">
 <img src="images/korean.png" width="5%" alt="korean"/>
 </a>
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/JayKim88">
@@ -87,9 +87,11 @@ Hope to be responsible for Front-End Position!
 <img src="images/prettier.png" width="5%" alt="prettier"/>
 </a>
 <br>
-Please visit my Tech-Blog:) [Click Here](https://nomadkim880901.tistory.com/)
 <br>
-Email: mearak43@gmail.com
+<Strong>How to reach me? :)</Strong>
+<br>
+* Welcome to my Tech-Blog: [Click Here](https://nomadkim880901.tistory.com/)
+* Email: mearak43@gmail.com
 <!--
 **JayKim88/JayKim88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
