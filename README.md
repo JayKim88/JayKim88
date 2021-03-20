@@ -87,11 +87,15 @@ Hope to be responsible for Front-End Position!
 <img src="images/prettier.png" width="5%" alt="prettier"/>
 </a>
 <br>
-<br>
 <Strong>How to reach me? :)</Strong>
 <br>
 * Welcome to my Tech-Blog: [Click Here](https://nomadkim880901.tistory.com/)
 * Email: mearak43@gmail.com
+<br>
+<Strong>Projects</Strong>
+<br>
+* Royal-Diary: https://royaldiary.ml/
+* Home-Made: https://homemade21.cf/
 <!--
 **JayKim88/JayKim88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
