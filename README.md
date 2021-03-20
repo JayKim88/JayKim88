@@ -50,6 +50,9 @@ Hope to be responsible for Front-End Position!
 <a target="_blank" rel="noopener noreferrer" href="https://www.mysql.com/">
 <img src="images/mysql.png" width="5%" alt="mysql"/>
 </a>
+<a target="_blank" rel="noopener noreferrer" href="https://sequelize.org/">
+<img src="images/sequelize.png" width="5%" alt="sequelize"/>
+</a>
 <a target="_blank" rel="noopener noreferrer" href="https://aws.amazon.com/?nc2=h_lg">
 <img src="images/aws.png" width="5%" alt="aws"/>
 </a>
