@@ -90,10 +90,8 @@ Hope to be responsible for Front-End Position!
 <Strong>How to reach me? :)</Strong>
 <br>
 * Welcome to my Tech-Blog: [Click Here](https://nomadkim880901.tistory.com/)
-* Email: mearak43@gmail.com
-<br>
+* Email: mearak43@gmail.com<br><br>
 <Strong>Projects</Strong>
-<br>
 * Royal-Diary: https://royaldiary.ml/
 * Home-Made: https://homemade21.cf/
 <br>
