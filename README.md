@@ -86,11 +86,12 @@ Hope to be responsible for Front-End Position!
 <a target="_blank" rel="noopener noreferrer" href="https://prettier.io/">
 <img src="images/prettier.png" width="5%" alt="prettier"/>
 </a>
-<br>
+
 <Strong>How to reach me? :)</Strong>
 <br>
 * Welcome to my Tech-Blog: [Click Here](https://nomadkim880901.tistory.com/)
 * Email: mearak43@gmail.com<br><br>
+
 <Strong>Projects</Strong>
 * Royal-Diary: https://royaldiary.ml/
 * Home-Made: https://homemade21.cf/
