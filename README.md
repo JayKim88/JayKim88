@@ -3,8 +3,7 @@ Hi there, Glad to have you here 👋
 I'm a steady learner to be a Software Engineer👨‍💻   
 Hope to be responsible for Front-End Position!
 
-<Strong style="font-style:italic">✏️ LANGUAGE</Strong>
-</br>
+<Strong style="font-style:italic">✏️ LANGUAGE</Strong>   
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/JayKim88" style="margin-right:10px">
 <img src="images/korean.png" width="5%" alt="korean"/>
 </a>
@@ -17,9 +16,9 @@ Hope to be responsible for Front-End Position!
 <a target="_blank" rel="noopener noreferrer" href="https://javascript.info/">
 <img src="images/javascript.png" width="5%" alt="javascript"/>
 </a>
-<br>
+
 <Strong>🌘 CLIENT-SIDE</Strong>
-<br>
+<br/>
 <a target="_blank" rel="noopener noreferrer" href="https://reactjs.org/">
 <img src="images/react.png" width="5%" alt="react"/>
 </a>
@@ -38,7 +37,7 @@ Hope to be responsible for Front-End Position!
 <a target="_blank" rel="noopener noreferrer" href="https://www.figma.com/">
 <img src="images/figma.png" width="5%" alt="figma"/>
 </a>
-<br>
+
 <Strong>🌘 SERVER-SIDE</Strong>
 <br>
 <a target="_blank" rel="noopener noreferrer" href="https://nodejs.org/en/">
@@ -62,7 +61,7 @@ Hope to be responsible for Front-End Position!
 <a target="_blank" rel="noopener noreferrer" href="https://dbdiagram.io/home">
 <img src="images/dbdiagram1.png" width="5%" alt="dbdiagram"/>
 </a>
-<br>
+
 <Strong>🔧 TOOLS</Strong>
 <br>
 <a target="_blank" rel="noopener noreferrer" href="https://code.visualstudio.com/">
@@ -93,15 +92,17 @@ Hope to be responsible for Front-End Position!
 <Strong>Projects</Strong>
   
 Team  
-<ul>
-  <li>
-  Royal Diary: https://royaldiary.ml/
-  </li>
-  <li>
-  Home Made: https://homemade21.cf/
-  </li>
-</ul>
+  <ul>
+    <li>
+    Royal Diary: https://royaldiary.ml/
+    </li>
+    <li>
+    Home Made: https://homemade21.cf/
+    </li>
+  </ul>
 Personal    
+<br/>
+<br/>
 <ul>
   <li>
   To Do List: https://jaykim88.github.io/Vanilla_JS/
@@ -122,9 +123,9 @@ Personal
   Tree UI: https://jaykim88.github.io/new-Tree-UI/
   </li>
 </ul>
-<br>
+
 <Strong>How to reach me? :)</Strong>
-<br>
+<br/>
 <ul>
   <li>
   Welcome to my Tech-Blog: [Click Here](https://nomadkim880901.tistory.com/)
