@@ -129,10 +129,10 @@ Personal
 <br/>
 <ul>
   <li>
-  Welcome to my Tech-Blog: [Click Here](https://nomadkim880901.tistory.com/)
+  Welcome to my Tech-Blog:[Click](https://nomadkim880901.tistory.com)
   </li>
   <li>
-  Email: mearak43@gmail.com
+  Email: <mearak43@gmail.com>
   </li>
 </ul>
 <br>
