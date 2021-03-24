@@ -88,9 +88,10 @@ Hope to be responsible for Front-End Position!
 <a target="_blank" rel="noopener noreferrer" href="https://prettier.io/">
 <img src="images/prettier.png" width="5%" alt="prettier"/>
 </a>
-
+<br/>
+<br/>
 <Strong>Projects</Strong>
-  
+
 Team  
   <ul>
     <li>
