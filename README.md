@@ -3,90 +3,90 @@ Hi there, Glad to have you here 👋
 I'm a steady learner to be a Software Engineer👨‍💻   
 Hope to be responsible for Front-End Position!
 
-<Strong style="font-style:italic">✏️ LANGUAGE</Strong>   
+<Strong style="font-style:italic">✏️ Language</Strong>   
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/JayKim88" style="margin-right:10px">
-<img src="images/korean.png" width="5%" alt="korean"/>
+<img src="images/korean.png" width="4%" alt="korean"/>
 </a>
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/JayKim88">
-<img src="images/english.png" width="5%" alt="english"/>
+<img src="images/english.png" width="4%" alt="english"/>
 </a>
 <a target="_blank" rel="noopener noreferrer" href="https://www.typescriptlang.org/">
-<img src="images/typescript.svg" width="5%" alt="typescript"/>
+<img src="images/typescript.svg" width="4%" alt="typescript"/>
 </a>
 <a target="_blank" rel="noopener noreferrer" href="https://javascript.info/">
-<img src="images/javascript.png" width="5%" alt="javascript"/>
+<img src="images/javascript.png" width="4%" alt="javascript"/>
 </a>
 
-<Strong>🌘 CLIENT-SIDE</Strong>
+<Strong>🌘 Client-Side</Strong>
 <br/>
 <a target="_blank" rel="noopener noreferrer" href="https://reactjs.org/">
-<img src="images/react.png" width="5%" alt="react"/>
+<img src="images/react.png" width="4%" alt="react"/>
 </a>
 <a target="_blank" rel="noopener noreferrer" href="https://redux.js.org/">
-<img src="images/redux.png" width="5%" alt="redux"/>
+<img src="images/redux.png" width="4%" alt="redux"/>
 </a>
 <a target="_blank" rel="noopener noreferrer" href="https://en.wikipedia.org/wiki/HTML">
-<img src="images/html.png" width="5%" alt="html"/>
+<img src="images/html.png" width="4%" alt="html"/>
 </a>
 <a target="_blank" rel="noopener noreferrer" href="https://en.wikipedia.org/wiki/CSS">
-<img src="images/css.png" width="5%" alt="css"/>
+<img src="images/css.png" width="4%" alt="css"/>
 </a>
 <a target="_blank" rel="noopener noreferrer" href="https://styled-components.com/">
-<img src="images/styledComponents.png" width="5%" alt="styledComponents"/>
+<img src="images/styledComponents.png" width="4%" alt="styledComponents"/>
 </a>
 <a target="_blank" rel="noopener noreferrer" href="https://www.figma.com/">
-<img src="images/figma.png" width="5%" alt="figma"/>
+<img src="images/figma.png" width="4%" alt="figma"/>
 </a>
 
-<Strong>🌘 SERVER-SIDE</Strong>
+<Strong>🌘 Server-Side</Strong>
 <br>
 <a target="_blank" rel="noopener noreferrer" href="https://nodejs.org/en/">
-<img src="images/nodejs-2.svg" width="5%" alt="nodejs"/>
+<img src="images/nodejs-2.svg" width="4%" alt="nodejs"/>
 </a>
 <a target="_blank" rel="noopener noreferrer" href="https://expressjs.com/">
-<img src="images/express.png" width="5%" alt="express"/>
+<img src="images/express.png" width="4%" alt="express"/>
 </a>
 <a target="_blank" rel="noopener noreferrer" href="https://www.mysql.com/">
-<img src="images/mysql.png" width="5%" alt="mysql"/>
+<img src="images/mysql.png" width="4%" alt="mysql"/>
 </a>
 <a target="_blank" rel="noopener noreferrer" href="https://sequelize.org/">
-<img src="images/sequelize.png" width="5%" alt="sequelize"/>
+<img src="images/sequelize.png" width="4%" alt="sequelize"/>
 </a>
 <a target="_blank" rel="noopener noreferrer" href="https://aws.amazon.com/?nc2=h_lg">
-<img src="images/aws.png" width="5%" alt="aws"/>
+<img src="images/aws.png" width="4%" alt="aws"/>
 </a>
 <a target="_blank" rel="noopener noreferrer" href="https://www.mysql.com/products/workbench/">
-<img src="images/workbench.png" width="5%" alt="workbench"/>
+<img src="images/workbench.png" width="4%" alt="workbench"/>
 </a>
 <a target="_blank" rel="noopener noreferrer" href="https://dbdiagram.io/home">
-<img src="images/dbdiagram1.png" width="5%" alt="dbdiagram"/>
+<img src="images/dbdiagram1.png" width="4%" alt="dbdiagram"/>
 </a>
 
-<Strong>🔧 TOOLS</Strong>
+<Strong>🔧 Tools</Strong>
 <br>
 <a target="_blank" rel="noopener noreferrer" href="https://code.visualstudio.com/">
-<img src="images/vscode.png" width="5%" alt="vscode"/>
+<img src="images/vscode.png" width="4%" alt="vscode"/>
 </a>
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/">
-<img src="images/github.png" width="5%" alt="github"/>
+<img src="images/github.png" width="4%" alt="github"/>
 </a>
 <a target="_blank" rel="noopener noreferrer" href="https://slack.com/intl/en-kr/">
-<img src="images/slack.png" width="5%" alt="slack"/>
+<img src="images/slack.png" width="4%" alt="slack"/>
 </a>
 <a target="_blank" rel="noopener noreferrer" href="https://www.postman.com/">
-<img src="images/postman.png" width="5%" alt="postman"/>
+<img src="images/postman.png" width="4%" alt="postman"/>
 </a>
 <a target="_blank" rel="noopener noreferrer" href="https://www.notion.so/">
-<img src="images/notion.png" width="5%" alt="notion"/>
+<img src="images/notion.png" width="4%" alt="notion"/>
 </a>
 <a target="_blank" rel="noopener noreferrer" href="https://www.gitbook.com/">
-<img src="images/gitbook.png" width="5%" alt="gitbook"/>
+<img src="images/gitbook.png" width="4%" alt="gitbook"/>
 </a>
 <a target="_blank" rel="noopener noreferrer" href="https://eslint.org/">
-<img src="images/eslint.png" width="5%" alt="eslint"/>
+<img src="images/eslint.png" width="4%" alt="eslint"/>
 </a>
 <a target="_blank" rel="noopener noreferrer" href="https://prettier.io/">
-<img src="images/prettier.png" width="5%" alt="prettier"/>
+<img src="images/prettier.png" width="4%" alt="prettier"/>
 </a>
 <br/>
 <br/>
