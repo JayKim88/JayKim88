@@ -124,18 +124,17 @@ Personal
   Tree UI: https://jaykim88.github.io/new-Tree-UI/
   </li>
 </ul>
-
+<br/>
 <Strong>How to reach me? :)</Strong>
 <br/>
 <ul>
   <li>
-  Welcome to my Tech-Blog:[Click](https://nomadkim880901.tistory.com)
+  Welcome to my Tech-Blog: https://nomadkim880901.tistory.com
   </li>
   <li>
-  Email: <mearak43@gmail.com>
+  Email: <a href="mailto:mearak43@gmail.com">mearak43@gmail.com</a>
   </li>
 </ul>
-<br>
 <!--
 **JayKim88/JayKim88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
