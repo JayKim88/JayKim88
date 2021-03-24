@@ -124,8 +124,8 @@ Personal
   Tree UI: https://jaykim88.github.io/new-Tree-UI/
   </li>
 </ul>
-<br/>
 <Strong>How to reach me? :)</Strong>
+<br/>
 <br/>
 <ul>
   <li>
