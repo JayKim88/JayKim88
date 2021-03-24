@@ -90,12 +90,6 @@ Hope to be responsible for Front-End Position!
 <img src="images/prettier.png" width="5%" alt="prettier"/>
 </a>
 <br>
-<br>
-<Strong>How to reach me? :)</Strong>
-<br>
-* Welcome to my Tech-Blog: [Click Here](https://nomadkim880901.tistory.com/)
-* Email: mearak43@gmail.com<br><br>
-
 <Strong>Projects</Strong>
 
 Team
@@ -128,7 +122,17 @@ Personal
   Tree UI: https://jaykim88.github.io/new-Tree-UI/
   </li>
 </ul>
+<br>
+<Strong>How to reach me? :)</Strong>
 
+<ul>
+  <li>
+  Welcome to my Tech-Blog: [Click Here](https://nomadkim880901.tistory.com/)
+  </li>
+  <li>
+  Email: mearak43@gmail.com
+  </li>
+</ul>
 <br>
 <!--
 **JayKim88/JayKim88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
