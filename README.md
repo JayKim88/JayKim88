@@ -4,7 +4,7 @@ I'm a steady learner to be a Software Engineer👨‍💻
 Hope to be responsible for Front-End Position!
 
 <Strong style="font-style:italic">✏️ LANGUAGE</Strong>
-<br>
+</br>
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/JayKim88" style="margin-right:10px">
 <img src="images/korean.png" width="5%" alt="korean"/>
 </a>
@@ -89,11 +89,10 @@ Hope to be responsible for Front-End Position!
 <a target="_blank" rel="noopener noreferrer" href="https://prettier.io/">
 <img src="images/prettier.png" width="5%" alt="prettier"/>
 </a>
-<br>
-<br>
-<Strong>Projects</Strong>
 
-Team
+<Strong>Projects</Strong>
+  
+Team  
 <ul>
   <li>
   Royal Diary: https://royaldiary.ml/
@@ -102,7 +101,7 @@ Team
   Home Made: https://homemade21.cf/
   </li>
 </ul>
-Personal
+Personal    
 <ul>
   <li>
   To Do List: https://jaykim88.github.io/Vanilla_JS/
