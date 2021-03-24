@@ -90,6 +90,7 @@ Hope to be responsible for Front-End Position!
 <img src="images/prettier.png" width="5%" alt="prettier"/>
 </a>
 <br>
+<br>
 <Strong>Projects</Strong>
 
 Team
@@ -124,7 +125,7 @@ Personal
 </ul>
 <br>
 <Strong>How to reach me? :)</Strong>
-
+<br>
 <ul>
   <li>
   Welcome to my Tech-Blog: [Click Here](https://nomadkim880901.tistory.com/)
