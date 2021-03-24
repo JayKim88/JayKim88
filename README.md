@@ -97,8 +97,38 @@ Hope to be responsible for Front-End Position!
 * Email: mearak43@gmail.com<br><br>
 
 <Strong>Projects</Strong>
-* Royal-Diary: https://royaldiary.ml/
-* Home-Made: https://homemade21.cf/
+
+Team
+<ul>
+  <li>
+  Royal Diary: https://royaldiary.ml/
+  </li>
+  <li>
+  Home Made: https://homemade21.cf/
+  </li>
+</ul>
+Personal
+<ul>
+  <li>
+  To Do List: https://jaykim88.github.io/Vanilla_JS/
+  </li>
+  <li>
+  Kakao Clone: https://jaykim88.github.io/Kakao-Clone2-Completed/
+  </li>
+  <li>
+  Stars Dance Party: https://jaykim88.github.io/new-subClass-dance-party/
+  </li>
+  <li>
+  J Cafe: https://bit.ly/3tPhSjn (PPT)
+  </li>
+  <li>
+  Calculator: https://jaykim88.github.io/new-calculator/
+  </li>
+  <li>
+  Tree UI: https://jaykim88.github.io/new-Tree-UI/
+  </li>
+</ul>
+
 <br>
 <!--
 **JayKim88/JayKim88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
