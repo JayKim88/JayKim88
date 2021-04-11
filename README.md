@@ -118,7 +118,7 @@ Personal
   Stars Dance Party: https://jaykim88.github.io/new-subClass-dance-party/
   </li>
   <li>
-  J Cafe: https://bit.ly/3tPhSjn (PPT)
+  J Cafe: https://jaykim88.github.io/J-cafe-deploy/
   </li>
   <li>
   Calculator: https://jaykim88.github.io/new-calculator/
