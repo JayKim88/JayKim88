@@ -95,7 +95,9 @@ Hope to be responsible for Front-End Position!
 Team  
   <ul>
     <li>
-    Royal Diary: https://royaldiary.ml/
+    Royal Diary<br>
+      - https://royaldiary.ml/<br>
+      - https://royal-diary.firebaseapp.com/ (CSS Refactored by Jay/Auth Not available)
     </li>
     <li>
     Home Made: https://homemade21.cf/
