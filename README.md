@@ -97,7 +97,7 @@ Team
     <li>
     Royal Diary<br>
       - https://royaldiary.ml/<br>
-      - https://royal-diary.firebaseapp.com/ (CSS Refactored by Jay/Auth Not available)
+      - https://royal-diary.firebaseapp.com/ (CSS Refactored by Jay/OAuth Not available)
     </li>
     <li>
     Home Made: https://homemade21.cf/
