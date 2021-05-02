@@ -108,6 +108,9 @@ Personal
 <br/>
 <ul>
   <li>
+  Covid19 Tracker: https://covid-19-tracker-124a9.web.app/
+  </li>
+  <li>
   JStargram: https://j-star-gram.firebaseapp.com/
   </li>
   <li>
