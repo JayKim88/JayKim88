@@ -1,7 +1,7 @@
 Hi there, Glad to have you here 👋
 ==================================
-I'm a steady learner to be a Software Engineer👨‍💻   
-Hope to be responsible for Front-End Position!
+I'm a Junior Front-End Engineer👨‍💻   
+Hope to be specialized in Front-End Position!
 
 <Strong style="font-style:italic">✏️ Language</Strong>   
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/JayKim88" style="margin-right:10px">
