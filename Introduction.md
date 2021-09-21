@@ -1,17 +1,15 @@
-Hi there, Glad to have you here 👋
+Hi, Glad to have you here:D
 ==================================
-I'm a Junior Front-End Engineer👨‍💻   
-Hope to be specialized in Front-End Position!
-<br/><br/>
+I'm a Web Front-end Engineer👨🏻‍💻  
+Using ReactJS, Typescript, Javascript, etc.  
+Currently, working for [Bold9 corporation](https://bold-9.com/)(E-commerce fulfillment platform service)
 <br/><br/>
 <Strong>Projects</Strong>
   
 Team  
   <ul>
     <li>
-    Royal Diary<br>
-      - https://royaldiary.ml/<br>
-      - https://royal-diary.firebaseapp.com/ (CSS Refactored by Jay/OAuth Not available)
+    Royal Diary: https://royaldiary.ml/<br>
     </li>
     <li>
     Home Made: https://homemade21.cf/
@@ -30,28 +28,16 @@ Personal
   <li>
   To Do List: https://jaykim88.github.io/Vanilla_JS/
   </li>
-  <li>
-  Kakao Clone: https://jaykim88.github.io/Kakao-Clone2-Completed/
-  </li>
-  <li>
-  Stars Dance Party: https://jaykim88.github.io/new-subClass-dance-party/
-  </li>
-  <li>
-  J Cafe: https://jaykim88.github.io/J-cafe-deploy/
-  </li>
-  <li>
-  Calculator: https://jaykim88.github.io/new-calculator/
-  </li>
-  <li>
-  Tree UI: https://jaykim88.github.io/new-Tree-UI/
-  </li>
 </ul>
 <Strong>How to reach me? :)</Strong>
 <br/>
 <br/>
 <ul>
   <li>
-  Welcome to my Tech-Blog: https://nomadkim880901.tistory.com
+  TechBlog: https://nomadkim880901.tistory.com
+  </li>
+  <li>
+  LinkedIn: https://www.linkedin.com/in/yongjae-jay-kim/
   </li>
   <li>
   Email: <a href="mailto:mearak43@gmail.com">mearak43@gmail.com</a>
