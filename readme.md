@@ -37,6 +37,9 @@ Personal
   TechBlog: https://nomadkim880901.tistory.com
   </li>
   <li>
+  TechRepo: https://github.com/JayKim88/dev-contents-TIL
+  </li>
+  <li>
   LinkedIn: https://www.linkedin.com/in/yongjae-jay-kim/
   </li>
   <li>
