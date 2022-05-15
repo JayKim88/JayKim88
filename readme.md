@@ -15,7 +15,7 @@ Team
   - <a href="https://bit.ly/3ttJgUc">Go to Project PPT</a><br>      
 
 Personal
-- JPortfolio: https://github.com/JayKim88/jay-portfolio
+- JPortfolio: https://jay-portfolio-487aa.web.app/
 - Covid19 Tracker: https://covid-19-tracker-124a9.web.app/
 - JStargram: https://j-star-gram.firebaseapp.com/
 - To Do List: https://jaykim88.github.io/Vanilla_JS/
