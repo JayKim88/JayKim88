@@ -14,7 +14,8 @@ Team
   - <a href="https://github.com/codestates/Homemade-client/wiki/HOMEMADE-WIKI">Go to Wiki</a><br>      
   - <a href="https://bit.ly/3ttJgUc">Go to Project PPT</a><br>      
 
-Personal    
+Personal
+- JPortfolio: https://github.com/JayKim88/jay-portfolio
 - Covid19 Tracker: https://covid-19-tracker-124a9.web.app/
 - JStargram: https://j-star-gram.firebaseapp.com/
 - To Do List: https://jaykim88.github.io/Vanilla_JS/
