@@ -12,7 +12,9 @@ Currently, working for [Bold9 corporation](https://bold-9.com/)(E-commerce fulfi
 <h2>Skill sets</h2>
 
 <strong>Client side</strong>
-<div style="flex">
+<div style="display:flex;">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white" />
@@ -22,13 +24,17 @@ Currently, working for [Bold9 corporation](https://bold-9.com/)(E-commerce fulfi
 </div>
 
 <strong>Server side</strong>
-<div style="flex">
+<div style="display:flex;">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 </div>
 
+<strong>CI&CD</strong>
+<div style="display:flex;">
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=GitHub-Actions&logoColor=white" />
+</div>
 <strong>Coworking tools</strong>
-<div style="flex">
+<div style="display:flex;">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white" />  
 </div>
