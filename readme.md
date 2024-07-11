@@ -7,8 +7,35 @@ Currently, working for [Bold9 corporation](https://bold-9.com/)(E-commerce fulfi
 
 ![Jay's GitHub stats](https://github-readme-stats.vercel.app/api?username=JayKim88&show_icons=true&bg_color=white&title_color=2f2e33&text_color=03925e&icon_color=d5d6d2)
 
+<br/>
 
-<Strong>Projects</Strong>
+<h2>Skill sets</h2>
+
+<strong>Client side</strong>
+<div style="flex">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apollo%20Client-311C87?style=for-the-badge&logo=Apollo%20GraphQL&logoColor=white" />  
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=GraphQL&logoColor=white" />
+  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" />
+</div>
+
+<strong>Server side</strong>
+<div style="flex">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+</div>
+
+<strong>Coworking tools</strong>
+<div style="flex">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white" />  
+</div>
+
+<br/>
+
+<h2>Projects</h2>
 
 <details>
   <summary>Team</summary>
