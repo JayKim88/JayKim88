@@ -43,17 +43,22 @@ Currently, working for [Bold9 corporation](https://bold-9.com/)(E-commerce fulfi
 
 <h2>Projects</h2>
 
+<b>🔥New Personal Project on Oct.2024🔥</b>
+
+- Build Your Body: https://build-your-body.vercel.app/
+- Check Project History for :D Fun: [Move to Notion page](https://jay-global.notion.site/Build-Your-Body-84e9378c4266402b851205d44a40be79?pvs=4)
+
 <details>
   <summary>Team</summary>
   
-  Royal Diary(Front-end position)
-  - <a href="https://royal-diary.web.app/">Go to Service</a>
-  - <a href="https://github.com/codestates/RoyalDiary-client/wiki/">Go to Wiki</a>
-  - <a href="https://bit.ly/3s0dbCQ">Go to Project PPT</a>
+  - Royal Diary(Front-end position)
+    - <a href="https://royal-diary.web.app/">Go to Service</a>
+    - <a href="https://github.com/codestates/RoyalDiary-client/wiki/">Go to Wiki</a>
+    - <a href="https://bit.ly/3s0dbCQ">Go to Project PPT</a>
   
-  Home Made(Back-end position)
-  - <a href="https://github.com/codestates/Homemade-client/wiki/HOMEMADE-WIKI">Go to Wiki</a><br>      
-  - <a href="https://bit.ly/3ttJgUc">Go to Project PPT</a><br>      
+  - Home Made(Back-end position)
+    - <a href="https://github.com/codestates/Homemade-client/wiki/HOMEMADE-WIKI">Go to Wiki</a><br>      
+    - <a href="https://bit.ly/3ttJgUc">Go to Project PPT</a><br>      
 </details>
 
 <details>
@@ -72,7 +77,6 @@ Currently, working for [Bold9 corporation](https://bold-9.com/)(E-commerce fulfi
 
 <Strong>How to reach me? :)</Strong>
 - TechBlog: https://nomadkim880901.tistory.com
-- TechRepo: https://github.com/JayKim88/dev-contents-TIL
 - OnlineCourseRepo: https://github.com/JayKim88/online-courses-selfEdu
 - LinkedIn: https://www.linkedin.com/in/yongjae-jay-kim/
 - Email: <a href="mailto:mearak43@gmail.com">mearak43@gmail.com</a>
