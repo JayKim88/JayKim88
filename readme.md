@@ -46,6 +46,7 @@ Currently, working for [Bold9 corporation](https://bold-9.com/)(E-commerce fulfi
 <b>🔥New Personal Project on Oct.2024🔥</b>
 
 - Build Your Body: https://build-your-body.vercel.app/
+- For More Details: [Go to Repository](https://github.com/JayKim88/build-your-body?tab=readme-ov-file#build-your-body)
 - Check Project History for :D Fun: [Move to Notion page](https://jay-global.notion.site/Build-Your-Body-84e9378c4266402b851205d44a40be79?pvs=4)
 
 <details>
