@@ -43,10 +43,7 @@ Currently, working for [Bold9 corporation](https://bold-9.com/)(E-commerce fulfi
 
 <h2>Projects</h2>
 
-<b>New Portfolio on April.2025</b>
-- JPortfolio-v2: https://jay-portfolio-v2.vercel.app/
-
-<b>New Personal Project on Oct.2024</b>
+<b>🔥 New Personal Project on Oct.2024 🔥</b>
 
 - Build Your Body: https://build-your-body.vercel.app/
 - For More Details: [Go to Repository](https://github.com/JayKim88/build-your-body?tab=readme-ov-file#build-your-body)
@@ -80,11 +77,12 @@ Currently, working for [Bold9 corporation](https://bold-9.com/)(E-commerce fulfi
 
 
 
-<Strong>How to reach me? :)</Strong>
-- TechBlog: https://nomadkim880901.tistory.com
-- OnlineCourseRepo: https://github.com/JayKim88/online-courses-selfEdu
+<h2>How to reach me? :)</h2>
+
+- Portfolio: https://jay-portfolio-v2.vercel.app/
 - LinkedIn: https://www.linkedin.com/in/yongjae-jay-kim/
-- Email: <a href="mailto:mearak43@gmail.com">mearak43@gmail.com</a>
+- Email: <a href="mailto:yongjae.kim.dev@gmail.com">yongjae.kim.dev@gmail.com</a>
+- TechBlog: https://nomadkim880901.tistory.com
   
 <!--
 **JayKim88/JayKim88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
