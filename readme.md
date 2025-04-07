@@ -1,7 +1,7 @@
 Hi, Glad to have you here:D
 ==================================
-I'm a Web Front-end Engineer👨🏻‍💻  
-Using ReactJS, Typescript, Javascript, etc.  
+I'm a Frontend Developer👨🏻‍💻  
+Using ReactJS, Typescript, HTML5, CSS3, etc.  
 Currently, working for [Bold9 corporation](https://bold-9.com/)(E-commerce fulfillment platform service)
 <br/><br/>
 
@@ -19,14 +19,26 @@ Currently, working for [Bold9 corporation](https://bold-9.com/)(E-commerce fulfi
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white" />
   <img src="https://img.shields.io/badge/Apollo%20Client-311C87?style=for-the-badge&logo=Apollo%20GraphQL&logoColor=white" />  
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=GraphQL&logoColor=white" />
   <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=React&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-grey?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=Vite&logoColor=white" />  
 </div>
 
 <strong>Server side</strong>
 <div style="display:flex;">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?&style=for-the-badge&logo=Google%20Cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
+</div>
+
+<strong>Both sides</strong>
+<div style="display:flex;">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=GraphQL&logoColor=white" />
 </div>
 
 <strong>CI&CD</strong>
