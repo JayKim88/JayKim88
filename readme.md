@@ -43,7 +43,10 @@ Currently, working for [Bold9 corporation](https://bold-9.com/)(E-commerce fulfi
 
 <h2>Projects</h2>
 
-<b>🔥New Personal Project on Oct.2024🔥</b>
+<b>New Portfolio on April.2025</b>
+- JPortfolio-v2: https://jay-portfolio-v2.vercel.app/
+
+<b>New Personal Project on Oct.2024</b>
 
 - Build Your Body: https://build-your-body.vercel.app/
 - For More Details: [Go to Repository](https://github.com/JayKim88/build-your-body?tab=readme-ov-file#build-your-body)
@@ -66,7 +69,7 @@ Currently, working for [Bold9 corporation](https://bold-9.com/)(E-commerce fulfi
 <details>
   <summary>Personal</summary>
   
-  - JPortfolio: https://jay-portfolio-487aa.web.app/
+  - JPortfolio-v1: https://jay-portfolio-487aa.web.app/
   - Covid19 Tracker: https://covid-19-tracker-124a9.web.app/
   - JStargram: https://j-star-gram.firebaseapp.com/
   - To Do List: https://jaykim88.github.io/Vanilla_JS/
