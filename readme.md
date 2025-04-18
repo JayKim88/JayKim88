@@ -91,7 +91,7 @@ Currently, working for [Bold9 corporation](https://bold-9.com/)(E-commerce fulfi
 
 <h2>How to reach me? :)</h2>
 
-- Portfolio: https://jay-portfolio-v2.vercel.app/
+- Portfolio: https://www.jaykim.dev/
 - LinkedIn: https://www.linkedin.com/in/yongjae-jay-kim/
 - Email: <a href="mailto:yongjae.kim.dev@gmail.com">yongjae.kim.dev@gmail.com</a>
 - TechBlog: https://nomadkim880901.tistory.com
