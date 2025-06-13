@@ -2,7 +2,7 @@ Hi, Glad to have you here:D
 ==================================
 I'm a Frontend Developer👨🏻‍💻  
 Using ReactJS, Typescript, HTML5, CSS3, etc.  
-Currently, working for [Bold9 corporation](https://bold-9.com/)(E-commerce fulfillment platform service)
+Worked at [Bold9 corporation](https://bold-9.com/)(E-commerce fulfillment platform service), an e-commerce fulfillment platform, from June 2021 to June 2025.
 <br/><br/>
 
 ![Jay's GitHub stats](https://github-readme-stats.vercel.app/api?username=JayKim88&show_icons=true&bg_color=white&title_color=2f2e33&text_color=03925e&icon_color=d5d6d2)
