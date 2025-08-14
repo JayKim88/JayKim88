@@ -63,9 +63,9 @@ Since July 2025
 
 <b>🔥 New Personal Project on July.2025 🔥</b>
 
-- PolyLingo: [Open App Store](https://apps.apple.com/kr/app/polylingo-translator/id6748724404?l=en-GB)
-- Intro: A mobile app service that provides simultaneous translation into multiple languages
-- For More Details: [Go to Introduction](https://jay-global.notion.site/PolyLingo-Introduction-240e5ccd65b180dc9180e79a1367268f)
+- PolyLingo: A mobile app service that provides simultaneous translation into multiple languages
+- Download Here: [Open App Store](https://apps.apple.com/kr/app/polylingo-translator/id6748724404?l=en-GB)
+- For More Details: [Go to Info Page](https://jay-global.notion.site/PolyLingo-Info-240e5ccd65b180dc9180e79a1367268f)
 
 <details>
   <summary>Team</summary>
