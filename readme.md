@@ -7,7 +7,7 @@ From June 2021 to June 2025 (4+ years)
 
 Since July 2025
 - An Indie Hacker building & launching mobile apps using React Native with Expo
-- Currently on <b>PolyLingo</b> mobile app service that provides simultaneous translation into multiple languages
+- Currently on <b>VoiceJournal</b>, a personal voice journal mobile app where AI analyzes your emotions and provides insights
 
 <br/><br/>
 
@@ -61,12 +61,11 @@ Since July 2025
 
 <h2>Projects</h2>
 
-<b>🔥 New Personal Project on Oct.2024 🔥</b>
+<b>🔥 New Personal Project on July.2025 🔥</b>
 
-- Build Your Body: https://build-your-body.vercel.app/
-- For More Details: [Go to Repository](https://github.com/JayKim88/build-your-body?tab=readme-ov-file#build-your-body)
-- Check Project History for :D Fun: [Move to Notion page](https://jay-global.notion.site/Build-Your-Body-84e9378c4266402b851205d44a40be79?pvs=4)
-- Figma Design: [Open Figma](https://www.figma.com/design/w0724tFpVxA2GI8WTq6amB/BYB_Build-Your-Body?node-id=0-1&t=zrJF3qpKzQI8tets-1)
+- PolyLingo: [Open App Store](https://apps.apple.com/kr/app/polylingo-translator/id6748724404?l=en-GB)
+- Intro: A mobile app service that provides simultaneous translation into multiple languages
+- For More Details: [Go to Introduction](https://jay-global.notion.site/PolyLingo-Introduction-240e5ccd65b180dc9180e79a1367268f)
 
 <details>
   <summary>Team</summary>
@@ -84,6 +83,7 @@ Since July 2025
 <details>
   <summary>Personal</summary>
   
+  - Build Your Body: https://build-your-body.vercel.app/
   - JPortfolio-v1: https://jay-portfolio-487aa.web.app/
   - Covid19 Tracker: https://covid-19-tracker-124a9.web.app/
   - JStargram: https://j-star-gram.firebaseapp.com/
