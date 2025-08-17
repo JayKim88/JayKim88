@@ -9,7 +9,7 @@ Since July 2025
 - An Indie Hacker building & launching mobile apps using React Native with Expo
 - Currently on <b>VoiceJournal</b>, a personal voice journal mobile app where AI analyzes your emotions and provides insights
 
-<br/><br/>
+<br/>
 
 ![Jay's GitHub stats](https://github-readme-stats.vercel.app/api?username=JayKim88&show_icons=true&bg_color=white&title_color=2f2e33&text_color=03925e&icon_color=d5d6d2)
 
@@ -63,33 +63,36 @@ Since July 2025
 
 <b>🔥 New Personal Project on July.2025 🔥</b>
 
+<img src="https://github.com/user-attachments/assets/bcff9366-32a5-4ad0-a088-76d94a83ff01" width="700" alt="polylingo screenshots" />
+
 - PolyLingo: A mobile app service that provides simultaneous translation into multiple languages
 - Download Here: [Open App Store](https://apps.apple.com/kr/app/polylingo-translator/id6748724404?l=en-GB)
 - For More Details: [Go to Info Page](https://jay-global.notion.site/PolyLingo-Info-240e5ccd65b180dc9180e79a1367268f)
 
 <details>
-  <summary>Team</summary>
-  
-  - Royal Diary(Front-end position)
-    - <a href="https://royal-diary.web.app/">Go to Service</a>
-    - <a href="https://github.com/codestates/RoyalDiary-client/wiki/">Go to Wiki</a>
-    - <a href="https://bit.ly/3s0dbCQ">Go to Project PPT</a>
-  
-  - Home Made(Back-end position)
-    - <a href="https://github.com/codestates/Homemade-client/wiki/HOMEMADE-WIKI">Go to Wiki</a><br>      
-    - <a href="https://bit.ly/3ttJgUc">Go to Project PPT</a><br>      
-</details>
-
-<details>
-  <summary>Personal</summary>
+  <summary>Personal Projects</summary>
   
   - Build Your Body: https://build-your-body.vercel.app/
+  - JPortfolio-v2: https://www.jaykim.dev/
   - JPortfolio-v1: https://jay-portfolio-487aa.web.app/
   - Covid19 Tracker: https://covid-19-tracker-124a9.web.app/
   - JStargram: https://j-star-gram.firebaseapp.com/
   - To Do List: https://jaykim88.github.io/Vanilla_JS/
 </details>
 
+
+<details>
+  <summary>Team Projects</summary>
+  
+  - Royal Diary(Front-end position)
+    - <a href="https://royal-diary.web.app/">Go to Service</a>
+    - <a href="https://github.com/codestates/RoyalDiary-client/wiki/">Go to Wiki</a>
+    - <a href="https://docs.google.com/presentation/d/14pNjfGywP11tC0fxRAGBPPGeuv9racICSAkgAVUFJmw/edit?slide=id.p#slide=id.p">Go to Works PPT</a>
+  
+  - Home Made(Back-end position)
+    - <a href="https://github.com/codestates/Homemade-client/wiki/HOMEMADE-WIKI">Go to Wiki</a><br>      
+    - <a href="https://nomadkim880901.tistory.com/category/2020_BootCamp_Codestates/First%20Project?page=1">Go to History in Blog</a><br>      
+</details>
 
 
 
