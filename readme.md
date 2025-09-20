@@ -1,13 +1,14 @@
 Hi, Glad to have you here:D
 ==================================
 
-From June 2021 to June 2025 (4+ years)
-- A Frontend Engineer using ReactJS, Typescript, HTML5, CSS3, etc
-- Worked at [Bold9 corporation](https://bold-9.com/), an e-commerce fulfillment platform
+Bold9 Corporation | Frontend Engineer | Jun 2021 – Jun 2025
+- Built and optimized an e-commerce fulfillment platform
+- Core Tech: JavaScript, TypeScript, React, Next.js, GraphQL, Docker, MUI, HTML5/CSS3
+- Prior experience in international sales & business development
 
-Since July 2025
-- An Indie Hacker building & launching mobile apps using React Native with Expo
-- Currently on <b>VoiceJournal</b>, a personal voice journal mobile app where AI analyzes your emotions and provides insights
+Jul 2025 – Present
+- Expanding expertise in React Native, Node.js, and system architecture
+- Open to full-stack/frontend opportunities (remote or on-site)
 
 <br/>
 
@@ -66,7 +67,7 @@ Since July 2025
 <img src="https://github.com/user-attachments/assets/bcff9366-32a5-4ad0-a088-76d94a83ff01" width="700" alt="polylingo screenshots" />
 
 - PolyLingo: A mobile app service that provides simultaneous translation into multiple languages
-- Download Here: [Open App Store](https://apps.apple.com/kr/app/polylingo-translator/id6748724404?l=en-GB)
+- App Store Preview: [Open Notion](https://jay-global.notion.site/App-Store-Preview-273e5ccd65b180fe8a5cda70e13d8d21)
 - For More Details: [Go to Info Page](https://jay-global.notion.site/PolyLingo-Info-240e5ccd65b180dc9180e79a1367268f)
 
 <details>
