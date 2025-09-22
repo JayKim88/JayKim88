@@ -68,7 +68,7 @@ Jul 2025 – Present
 
 - PolyLingo: A mobile app service that provides simultaneous translation into multiple languages
 - App Store Preview: [Open Notion](https://jay-global.notion.site/App-Store-Preview-273e5ccd65b180fe8a5cda70e13d8d21)
-- For More Details: [Go to Info Page](https://jay-global.notion.site/PolyLingo-Info-240e5ccd65b180dc9180e79a1367268f)
+- For More Details: [Go to Repo](https://github.com/JayKim88/polylingo)
 
 <details>
   <summary>Personal Projects</summary>
