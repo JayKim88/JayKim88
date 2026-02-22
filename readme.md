@@ -1,18 +1,19 @@
-Hi, Glad to have you here:D
+Hello!  
+Glad to have you here :D
 ==================================
+
+Feb 2026 – Present
+- Expanding expertise into AI Product Engineering
+- Open to full-stack/frontend opportunities (remote or on-site)
+
+VNTG | AI Frontend Engineer | Nov 2025 – Feb 2026
+- Built Figma-to-Code & Requirements-to-Code auto-generation pipelines
+- Core Tech: Anthropic Claude(skills & sub-agents), Figma, TypeScript, React, Tailwind CSS
 
 Bold9 Corporation | Frontend Engineer | Jun 2021 – Jun 2025
 - Built and optimized an e-commerce fulfillment platform
 - Core Tech: JavaScript, TypeScript, React, Next.js, GraphQL, Docker, MUI, HTML5/CSS3
 - Prior experience in international sales & business development
-
-Jul 2025 – Present
-- Expanding expertise in React Native, Node.js, and system architecture
-- Open to full-stack/frontend opportunities (remote or on-site)
-
-<br/>
-
-![Jay's GitHub stats](https://github-readme-stats.vercel.app/api?username=JayKim88&show_icons=true&bg_color=white&title_color=2f2e33&text_color=03925e&icon_color=d5d6d2)
 
 <br/>
 
@@ -62,7 +63,7 @@ Jul 2025 – Present
 
 <h2>Projects</h2>
 
-<b>🔥 New Personal Project on July.2025 🔥</b>
+<b>🔥 Latest Personal Project on July.2025 🔥</b>
 
 <img src="https://github.com/user-attachments/assets/bcff9366-32a5-4ad0-a088-76d94a83ff01" width="700" alt="polylingo screenshots" />
 
