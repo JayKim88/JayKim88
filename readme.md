@@ -61,19 +61,20 @@ Bold9 Corporation | Frontend Engineer | Jun 2021 – Jun 2025
 
 <br/>
 
+
 <h2>Projects</h2>
 
-<b>🔥 Latest Personal Project on July.2025 🔥</b>
+<b>🔥 Latest Personal Project on April.2026 🔥</b>
 
-<img src="https://github.com/user-attachments/assets/bcff9366-32a5-4ad0-a088-76d94a83ff01" width="700" alt="polylingo screenshots" />
+<img src="https://github.com/user-attachments/assets/1c10f02e-1e99-4385-bd71-29d89c51cdcd" width="700" alt="Nativ screenshots" />
 
-- PolyLingo: A mobile app service that provides simultaneous translation into multiple languages
-- App Store Preview: [Open Notion](https://jay-global.notion.site/App-Store-Preview-273e5ccd65b180fe8a5cda70e13d8d21)
-- For More Details: [Go to Repo](https://github.com/JayKim88/polylingo)
+- Nativ: An AI language tutor powered by your own textbooks
+- Website: https://www.nativ.to/
 
 <details>
   <summary>Personal Projects</summary>
-  
+
+  - PolyLingo: [Open Notion](https://jay-global.notion.site/App-Store-Preview-273e5ccd65b180fe8a5cda70e13d8d21), [Go to Repo](https://github.com/JayKim88/polylingo)
   - Build Your Body: https://build-your-body.vercel.app/
   - JPortfolio-v2: https://www.jaykim.dev/
   - JPortfolio-v1: https://jay-portfolio-487aa.web.app/
