@@ -66,7 +66,9 @@ Bold9 Corporation | Frontend Engineer | Jun 2021 – Jun 2025
 
 <b>🔥 Latest Personal Project on April.2026 🔥</b>
 
-<img src="https://github.com/user-attachments/assets/1c10f02e-1e99-4385-bd71-29d89c51cdcd" width="700" alt="Nativ screenshots" />
+<a href="https://www.nativ.to/">
+  <img src="https://github.com/user-attachments/assets/1c10f02e-1e99-4385-bd71-29d89c51cdcd" width="700" alt="Nativ: AI Language Tutor" />
+</a>
 
 - Nativ: An AI language tutor powered by your own textbooks
 - Website: https://www.nativ.to/
