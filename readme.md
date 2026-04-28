@@ -78,16 +78,12 @@ Bold9 Corporation | Frontend Engineer | Jun 2021 – Jun 2025
 
   - PolyLingo: [Open App Store](https://apps.apple.com/kr/app/polylingo-translator/id6748724404?l=en-GB), [Go to Repo](https://github.com/JayKim88/polylingo)
   - Build Your Body: https://build-your-body.vercel.app/
-  - JPortfolio-v2: https://www.jaykim.dev/
-  - JPortfolio-v1: https://jay-portfolio-487aa.web.app/
-  - Covid19 Tracker: https://covid-19-tracker-124a9.web.app/
-  - JStargram: https://j-star-gram.firebaseapp.com/
-  - To Do List: https://jaykim88.github.io/Vanilla_JS/
+  - JPortfolio: https://www.jaykim.dev/
 </details>
 
 
 <details>
-  <summary>Team Projects</summary>
+  <summary>Team Projects(Bootcamp)</summary>
   
   - Royal Diary(Front-end position)
     - <a href="https://royal-diary.web.app/">Go to Service</a>
