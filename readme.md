@@ -76,7 +76,7 @@ Bold9 Corporation | Frontend Engineer | Jun 2021 – Jun 2025
 <details>
   <summary>Personal Projects</summary>
 
-  - PolyLingo: [Open Notion](https://jay-global.notion.site/App-Store-Preview-273e5ccd65b180fe8a5cda70e13d8d21), [Go to Repo](https://github.com/JayKim88/polylingo)
+  - PolyLingo: [Open App Store](https://apps.apple.com/kr/app/polylingo-translator/id6748724404?l=en-GB), [Go to Repo](https://github.com/JayKim88/polylingo)
   - Build Your Body: https://build-your-body.vercel.app/
   - JPortfolio-v2: https://www.jaykim.dev/
   - JPortfolio-v1: https://jay-portfolio-487aa.web.app/
